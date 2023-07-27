@@ -7,7 +7,7 @@ module Millionaire
       ANSWER_WIDTH = 400
       ANSWER_HEIGHT = 120
       FONT_FAMILY = :noto
-      BG_IMAGE = "data/img/bg.png"
+      BG_IMAGE = "/Users/ivansizyh/Desktop/MiniGl Quez/data/img/bg.jpg"
     end
 
     class CReader
